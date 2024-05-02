@@ -15,7 +15,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Usage](#usage)
 * [Examples of use](#examples-of-use)
 * [Bugs](#bugs)
-* [Authors](#authors)
+* [Author](#author)
 * [License](#license)
 
 ## Environment
@@ -153,7 +153,7 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
+## Author
 Nhlovo Mathebula https://github.com/Nhlobo
 ## License
 Public Domain. No copy write protection. 
